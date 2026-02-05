@@ -1,0 +1,11 @@
+fer2013.csv
+models/
+*.h5
+*.csv
+__pycache__/
+*.pyc
+training_history.png
+confusion_matrix.png
+per_class_accuracy.png
+sample_predictions.png
+misclassifications.png
